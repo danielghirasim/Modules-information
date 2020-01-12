@@ -1,0 +1,375 @@
+article_title,date_published,link
+Python args and kwargs: Demystified,"Jan 07, 2020",http://www.realpython.com/courses/python-kwargs-and-args/
+Using Pandas and Python to Explore Your Dataset,"Jan 06, 2020",http://www.realpython.com/pandas-python-explore-dataset/
+How to Use sorted() and sort() in Python,"Dec 31, 2019",http://www.realpython.com/courses/python-sorting-data/
+Python Timer Functions: Three Ways to Monitor Your Code,"Dec 30, 2019",http://www.realpython.com/python-timer/
+How to Iterate Through a Dictionary in Python,"Dec 24, 2019",http://www.realpython.com/courses/python-dictionary-iteration/
+"NumPy, SciPy, and Pandas: Correlation With Python","Dec 23, 2019",http://www.realpython.com/numpy-scipy-pandas-correlation-python/
+Run Python Versions in Docker: How to Try the Latest Python Release,"Dec 18, 2019",http://www.realpython.com/python-versions-docker/
+Documenting Python Code Guide,"Dec 17, 2019",http://www.realpython.com/courses/documenting-python-code/
+Python Statistics Fundamentals: How to Describe Your Data,"Dec 16, 2019",http://www.realpython.com/python-statistics/
+Data Engineer Interview Questions With Python,"Dec 11, 2019",http://www.realpython.com/data-engineer-interview-questions-python/
+Introduction to Python 3,"Dec 10, 2019",http://www.realpython.com/courses/variables-python/
+MicroPython: An Introduction to Programming Hardware in Python,"Dec 09, 2019",http://www.realpython.com/micropython/
+Beautiful Soup: Build a Web Scraper With Python,"Dec 04, 2019",http://www.realpython.com/beautiful-soup-web-scraper-python/
+"Python, Boto3, and AWS S3: Demystified","Dec 03, 2019",http://www.realpython.com/courses/python-boto3-aws-s3/
+Pandas: How to Read and Write Files,"Dec 02, 2019",http://www.realpython.com/pandas-read-write-files/
+Python Descriptors: An Introduction,"Nov 27, 2019",http://www.realpython.com/python-descriptors/
+Python KeyError Exceptions and How to Handle Them,"Nov 26, 2019",http://www.realpython.com/courses/python-keyerror/
+Python Community Interview,"Nov 25, 2019",http://www.realpython.com/interview-brian-okken/
+Invalid Syntax in Python: Common Reasons for SyntaxError,"Nov 20, 2019",http://www.realpython.com/invalid-syntax-python/
+An Intro to Threading in Python,"Nov 19, 2019",http://www.realpython.com/courses/threading-python/
+Pandas GroupBy: Your Guide to Grouping Data in Python,"Nov 18, 2019",http://www.realpython.com/pandas-groupby/
+Getting Started With Python IDLE,"Nov 13, 2019",http://www.realpython.com/python-idle/
+Core Python Tutorials Artwork,"Nov 12, 2019",http://www.realpython.com/courses/thinking-recursively-python/
+PyCon Africa 2019 (Recap),"Nov 11, 2019",http://www.realpython.com/pycon-africa-2019-recap/
+When to Use a List Comprehension in Python,"Nov 06, 2019",http://www.realpython.com/list-comprehension-python/
+Cool New Features in Python 3.8,"Nov 05, 2019",http://www.realpython.com/courses/cool-new-features-python-38/
+Build a Mobile Application With the Kivy Python Framework,"Nov 04, 2019",http://www.realpython.com/mobile-app-kivy-python/
+Building Flask REST APIs,"Oct 30, 2019",http://www.realpython.com/flask-connexion-rest-api-part-4/
+The Ultimate Guide to Python Type Checking,"Oct 29, 2019",http://www.realpython.com/courses/python-type-checking/
+Python Community Interview,"Oct 28, 2019",http://www.realpython.com/interview-al-sweigart/
+Python and PyQt: Building a GUI Desktop Calculator,"Oct 23, 2019",http://www.realpython.com/python-pyqt-gui-calculator/
+Python Matplotlib,"Oct 22, 2019",http://www.realpython.com/courses/python-plotting-matplotlib/
+Arduino With Python: How to Get Started,"Oct 21, 2019",http://www.realpython.com/arduino-python/
+Python sleep(): How to Add Time Delays to Your Code,"Oct 16, 2019",http://www.realpython.com/python-sleep/
+Python's range() Function,"Oct 15, 2019",http://www.realpython.com/courses/python-range-function/
+Cool New Features in Python 3.8,"Oct 14, 2019",http://www.realpython.com/python38-new-features/
+Emacs: The Best Python Editor?,"Oct 09, 2019",http://www.realpython.com/emacs-the-best-python-editor/
+Get Started With Django Part 1: Build a Portfolio App,"Oct 08, 2019",http://www.realpython.com/courses/django-portfolio-project/
+Building a Python C Extension Module,"Oct 07, 2019",http://www.realpython.com/build-python-c-extension-module/
+Using the Python zip() Function for Parallel Iteration,"Oct 02, 2019",http://www.realpython.com/python-zip-function/
+Core Python Tutorials Artwork,"Oct 01, 2019",http://www.realpython.com/courses/python-strings/
+Preventing SQL Injection Attacks With Python,"Sep 30, 2019",http://www.realpython.com/prevent-python-sql-injection/
+How to Use Generators and Yield in Python,"Sep 25, 2019",http://www.realpython.com/introduction-to-python-generators/
+Thonny: The Beginner-Friendly Python Editor,"Sep 24, 2019",http://www.realpython.com/courses/python-thonny/
+Getting Started With Async Features in Python,"Sep 23, 2019",http://www.realpython.com/python-async-features/
+Python Pit Stop,"Sep 18, 2019",http://www.realpython.com/convert-python-string-to-int/
+Python Development Tools Artwork,"Sep 17, 2019",http://www.realpython.com/courses/python-debugging-pdb/
+PyGame: A Primer on Game Programming in Python,"Sep 16, 2019",http://www.realpython.com/pygame-a-primer/
+Python vs C++: Selecting the Right Tool for the Job,"Sep 11, 2019",http://www.realpython.com/python-vs-cpp/
+Absolute vs Relative Imports in Python,"Sep 10, 2019",http://www.realpython.com/courses/absolute-vs-relative-imports-python/
+MATLAB vs Python: Why and How to Make the Switch,"Sep 09, 2019",http://www.realpython.com/matlab-vs-python/
+Python args and kwargs: Demystified,"Sep 04, 2019",http://www.realpython.com/python-kwargs-and-args/
+Introduction to Python 3,"Sep 03, 2019",http://www.realpython.com/courses/lists-tuples-python/
+Natural Language Processing With spaCy in Python,"Sep 02, 2019",http://www.realpython.com/natural-language-processing-spacy-python/
+PyCharm for Productive Python Development (Guide),"Aug 28, 2019",http://www.realpython.com/pycharm-guide/
+How to Use Python lambda Functions,"Aug 27, 2019",http://www.realpython.com/courses/python-lambda-functions/
+A Guide to Excel Spreadsheets in Python With openpyxl,"Aug 26, 2019",http://www.realpython.com/openpyxl-excel-spreadsheets-python/
+Your Guide to the CPython Source Code,"Aug 21, 2019",http://www.realpython.com/cpython-source-code-guide/
+Python Histogram Plots,"Aug 20, 2019",http://www.realpython.com/courses/python-histograms/
+How to Make a Discord Bot in Python,"Aug 19, 2019",http://www.realpython.com/how-to-make-a-discord-bot-python/
+An Effective Python Environment: Making Yourself at Home,"Aug 14, 2019",http://www.realpython.com/effective-python-environment/
+Python Face Recognition and Face Detection,"Aug 13, 2019",http://www.realpython.com/courses/traditional-face-detection-python/
+The Ultimate Guide to Python Print,"Aug 12, 2019",http://www.realpython.com/python-print/
+Inheritance and Composition: A Python OOP Guide,"Aug 07, 2019",http://www.realpython.com/inheritance-composition-python/
+Beginner Tips for Learning Python,"Aug 06, 2019",http://www.realpython.com/courses/python-beginner-tips/
+What You Need to Know to Manage Users in Django Admin,"Aug 05, 2019",http://www.realpython.com/manage-users-in-django-admin/
+First Steps With PySpark and Big Data Processing,"Jul 31, 2019",http://www.realpython.com/pyspark-intro/
+How to Iterate Through a Dictionary in Python,"Jul 30, 2019",http://www.realpython.com/courses/dictionaries-python/
+Understanding the Python Traceback,"Jul 29, 2019",http://www.realpython.com/python-traceback/
+Django Migrations: A Primer,"Jul 24, 2019",http://www.realpython.com/digging-deeper-into-migrations/
+Logging in Python,"Jul 23, 2019",http://www.realpython.com/courses/logging-python/
+NumPy arange(): How to Use np.arange(),"Jul 22, 2019",http://www.realpython.com/how-to-use-numpy-arange/
+Create a Flask Application With Google Login,"Jul 17, 2019",http://www.realpython.com/flask-google-login/
+Python Best Practices Artwork,"Jul 16, 2019",http://www.realpython.com/courses/how-to-write-pythonic-loops/
+How to Get the Most Out of PyCon,"Jul 15, 2019",http://www.realpython.com/real-python-pycon-us/
+Build a Recommendation Engine With Collaborative Filtering,"Jul 10, 2019",http://www.realpython.com/build-recommendation-engine-collaborative-filtering/
+Reading and Writing Files in Python (Guide),"Jul 09, 2019",http://www.realpython.com/courses/reading-and-writing-files-python/
+Python Pit Stop,"Jul 08, 2019",http://www.realpython.com/python-square-root-function/
+How to Use the Python or Operator,"Jul 03, 2019",http://www.realpython.com/python-or-operator/
+Core Python Tutorials Artwork,"Jul 02, 2019",http://www.realpython.com/courses/functional-programming-python/
+How to Use Redis With Python,"Jul 01, 2019",http://www.realpython.com/python-redis/
+Python Community Interview,"Jun 26, 2019",http://www.realpython.com/interview-katrina-durance/
+Generating Random Data With Python,"Jun 25, 2019",http://www.realpython.com/courses/generating-random-data-python/
+Introduction to Python 3,"Jun 24, 2019",http://www.realpython.com/python-input-output/
+How to Use Python lambda Functions,"Jun 19, 2019",http://www.realpython.com/python-lambda/
+How to Publish an Open-Source Python Package to PyPI,"Jun 18, 2019",http://www.realpython.com/courses/how-to-publish-your-own-python-package-pypi/
+Python Community Interview,"Jun 17, 2019",http://www.realpython.com/interview-marlene-mhangami/
+How to Build Command Line Interfaces in Python With argparse,"Jun 12, 2019",http://www.realpython.com/command-line-interfaces-python-argparse/
+"Python classmethods, staticmethods, and instance methods","Jun 11, 2019",http://www.realpython.com/courses/python-method-types/
+How to Make a Twitter Bot in Python With Tweepy,"Jun 10, 2019",http://www.realpython.com/twitter-bot-python-tweepy/
+How to Implement a Python Stack,"Jun 05, 2019",http://www.realpython.com/how-to-implement-python-stack/
+Git Tips for Python Developers,"Jun 04, 2019",http://www.realpython.com/courses/python-git-github-intro/
+Object-Oriented Programming in Python vs Java,"Jun 03, 2019",http://www.realpython.com/oop-in-python-vs-java/
+Pointers in Python: What's the Point?,"May 29, 2019",http://www.realpython.com/pointers-in-python/
+Continuous Integration with Python: An Introduction,"May 28, 2019",http://www.realpython.com/courses/python-continuous-integration/
+How to Iterate Through a Dictionary in Python,"May 27, 2019",http://www.realpython.com/iterate-through-dictionary-python/
+Python Logging: A Stroll Through the Source Code,"May 22, 2019",http://www.realpython.com/python-logging-source-code/
+Interactive Data Visualization in Python With Bokeh,"May 21, 2019",http://www.realpython.com/courses/interactive-data-visualization-python-bokeh/
+Unicode & Character Encodings in Python: A Painless Guide,"May 20, 2019",http://www.realpython.com/python-encodings-guide/
+Introduction to Python 3,"May 16, 2019",http://www.realpython.com/courses/installing-python-windows-macos-linux/
+Three Ways of Storing and Accessing Lots of Images in Python,"May 15, 2019",http://www.realpython.com/storing-images-in-python/
+Intermediate Python,"May 14, 2019",http://www.realpython.com/courses/writing-cleaner-python-code-pylint/
+Playing and Recording Sound in Python,"May 13, 2019",http://www.realpython.com/playing-and-recording-sound-python/
+Python Community Interview,"May 08, 2019",http://www.realpython.com/python-community-interview-bob-and-julian-pybites/
+Intermediate Python,"May 07, 2019",http://www.realpython.com/courses/python-context-managers-and-with-statement/
+How to Use sorted() and sort() in Python,"May 06, 2019",http://www.realpython.com/python-sort/
+Defining Main Functions in Python,"May 01, 2019",http://www.realpython.com/python-main-function/
+Make a Location-Based Web App With Django and GeoDjango,"Apr 30, 2019",http://www.realpython.com/courses/make-location-based-web-app-django-and-geodjango/
+How to Get the Most Out of PyCon,"Apr 29, 2019",http://www.realpython.com/pycon-guide/
+Introduction to Python 3,"Apr 25, 2019",http://www.realpython.com/courses/python-conditional-statements/
+Python KeyError Exceptions and How to Handle Them,"Apr 24, 2019",http://www.realpython.com/python-keyerror/
+Sending Emails With Python,"Apr 23, 2019",http://www.realpython.com/courses/sending-emails-python/
+A Beginner’s Guide to the Python time Module,"Apr 22, 2019",http://www.realpython.com/python-time-module/
+Intermediate Python,"Apr 18, 2019",http://www.realpython.com/courses/immutability-python/
+How to Work With a PDF in Python,"Apr 17, 2019",http://www.realpython.com/pdf-python/
+Async IO in Python: A Complete Walkthrough,"Apr 16, 2019",http://www.realpython.com/courses/python-3-concurrency-asyncio-module/
+Linear Regression in Python,"Apr 15, 2019",http://www.realpython.com/linear-regression-in-python/
+Python String Formatting,"Apr 11, 2019",http://www.realpython.com/courses/python-string-formatting-tips-best-practices/
+How to Create an Index in Django Without Downtime,"Apr 10, 2019",http://www.realpython.com/create-django-index-without-downtime/
+How to Run Your Python Scripts,"Apr 09, 2019",http://www.realpython.com/courses/running-python-scripts/
+Building Flask REST APIs,"Apr 08, 2019",http://www.realpython.com/flask-connexion-rest-api-part-3/
+Python Development in Visual Studio Code,"Apr 04, 2019",http://www.realpython.com/courses/python-development-visual-studio-code-setup-guide/
+What Is pip? A Guide for New Pythonistas,"Apr 03, 2019",http://www.realpython.com/what-is-pip/
+Pandas Tricks,"Apr 02, 2019",http://www.realpython.com/courses/idiomatic-pandas-tricks-features-you-may-not-know/
+Get Started With Django Part 1: Build a Portfolio App,"Apr 01, 2019",http://www.realpython.com/get-started-with-django-1/
+Working With JSON Data in Python,"Mar 28, 2019",http://www.realpython.com/courses/working-json-data-python/
+How to Stand Out in a Python Coding Interview,"Mar 27, 2019",http://www.realpython.com/python-coding-interview-tips/
+Django Migrations: A Primer,"Mar 26, 2019",http://www.realpython.com/courses/django-migrations-101/
+Python Best Practices Artwork,"Mar 26, 2019",http://www.realpython.com/courses/documenting-python-projects-sphinx-read-the-docs/
+An Intro to Threading in Python,"Mar 25, 2019",http://www.realpython.com/intro-to-python-threading/
+OOP in Python 3,"Mar 21, 2019",http://www.realpython.com/courses/intro-object-oriented-programming-oop-python/
+13 Project Ideas for Intermediate Python Developers,"Mar 20, 2019",http://www.realpython.com/intermediate-python-project-ideas/
+Python Decorators,"Mar 19, 2019",http://www.realpython.com/courses/python-decorators-101/
+How to Build a Python GUI Application With wxPython,"Mar 18, 2019",http://www.realpython.com/python-gui-with-wxpython/
+Understanding the Python Mock Object Library,"Mar 13, 2019",http://www.realpython.com/python-mock-library/
+Managing Multiple Python Versions With pyenv,"Mar 11, 2019",http://www.realpython.com/intro-to-pyenv/
+Writing Comments in Python (Guide),"Mar 08, 2019",http://www.realpython.com/courses/writing-comments-python/
+Python’s Requests Library (Guide),"Mar 06, 2019",http://www.realpython.com/courses/python-requests/
+Using PyInstaller to Easily Distribute Python Applications,"Mar 06, 2019",http://www.realpython.com/pyinstaller-python/
+An Introduction to Python Exceptions,"Mar 05, 2019",http://www.realpython.com/courses/introduction-python-exceptions/
+How to Write Beautiful Python Code With PEP 8,"Mar 05, 2019",http://www.realpython.com/courses/writing-beautiful-python-code-pep-8/
+F-Strings in Python 3.6,"Mar 05, 2019",http://www.realpython.com/courses/python-3-f-strings-improved-string-formatting-syntax/
+Refactoring Python Applications for Simplicity,"Mar 04, 2019",http://www.realpython.com/python-refactoring/
+Python Best Practices Artwork,"Mar 04, 2019",http://www.realpython.com/courses/idiomatic-python-101/
+13 Project Ideas for Intermediate Python Developers,"Mar 04, 2019",http://www.realpython.com/courses/pythonic-oop-string-conversion-__repr__-vs-__str__/
+Getting Started With Testing in Python,"Mar 04, 2019",http://www.realpython.com/courses/test-driven-development-pytest/
+Python Data Science Artwork,"Mar 02, 2019",http://www.realpython.com/courses/introduction-pandas-and-vincent/
+An Introduction to Python Exceptions,"Mar 02, 2019",http://www.realpython.com/courses/python-exceptions-101/
+Python Data Science Artwork,"Mar 02, 2019",http://www.realpython.com/courses/pandas-dataframes-101/
+Intermediate Python,"Mar 02, 2019",http://www.realpython.com/courses/emulating-switch-case-python/
+Advanced Python,"Mar 02, 2019",http://www.realpython.com/courses/migrating-applications-python-2-python-3/
+Intermediate Python,"Mar 02, 2019",http://www.realpython.com/courses/staticmethod-vs-classmethod-python/
+"Splitting, Concatenating, and Joining Strings in Python","Mar 01, 2019",http://www.realpython.com/courses/splitting-concatenating-and-joining-strings-python/
+Introduction to Python 3,"Mar 01, 2019",http://www.realpython.com/courses/mastering-while-loops/
+Intermediate Python,"Mar 01, 2019",http://www.realpython.com/courses/using-list-comprehensions-effectively/
+Python CSV Parsing,"Mar 01, 2019",http://www.realpython.com/courses/reading-and-writing-csv-files/
+Jupyter Notebook: An Introduction,"Mar 01, 2019",http://www.realpython.com/courses/using-jupyter-notebooks/
+Absolute vs Relative Imports in Python,"Mar 01, 2019",http://www.realpython.com/courses/python-imports-101/
+Introduction to Python 3,"Mar 01, 2019",http://www.realpython.com/courses/python-for-loop/
+Python Virtual Environments (venv),"Feb 27, 2019",http://www.realpython.com/courses/working-python-virtual-environments/
+Python Face Recognition and Face Detection,"Feb 27, 2019",http://www.realpython.com/traditional-face-detection-python/
+Python Community Interview With Mahdi Yusuf,"Feb 25, 2019",http://www.realpython.com/interview-ali-spittel/
+Reading and Writing Files in Python (Guide),"Feb 20, 2019",http://www.realpython.com/read-write-files-python/
+How to Run Your Python Scripts,"Feb 18, 2019",http://www.realpython.com/run-python-scripts/
+Supercharge Your Classes With Python super(),"Feb 12, 2019",http://www.realpython.com/python-super/
+The Factory Method Pattern and Its Implementation in Python,"Feb 11, 2019",http://www.realpython.com/factory-method-python/
+The Ultimate List of Data Science Podcasts,"Feb 06, 2019",http://www.realpython.com/data-science-podcasts/
+Python Development in Visual Studio Code,"Feb 04, 2019",http://www.realpython.com/python-development-visual-studio-code/
+Introduction to Python 3,"Jan 30, 2019",http://www.realpython.com/python-for-loop/
+Jupyter Notebook: An Introduction,"Jan 28, 2019",http://www.realpython.com/jupyter-notebook-introduction/
+Python’s Requests Library (Guide),"Jan 23, 2019",http://www.realpython.com/python-requests/
+Working With Files in Python,"Jan 21, 2019",http://www.realpython.com/working-with-files-in-python/
+Async IO in Python: A Complete Walkthrough,"Jan 16, 2019",http://www.realpython.com/async-io-python/
+Speed Up Your Python Program With Concurrency,"Jan 14, 2019",http://www.realpython.com/python-concurrency/
+Django Migrations: A Primer,,http://www.realpython.com/django-migrations-a-primer/
+The Ultimate Guide to Python Type Checking,,http://www.realpython.com/python-type-checking/
+Modeling Polymorphism in Django With Python,,http://www.realpython.com/modeling-polymorphism-django-python/
+Real Python Video Courses,,http://www.realpython.com/courses/real-python-welcome/
+Python Community Interview,,http://www.realpython.com/interview-corey-schafer/
+Make a Location-Based Web App With Django and GeoDjango,,http://www.realpython.com/location-based-app-with-geodjango-tutorial/
+How to Write Beautiful Python Code With PEP 8,,http://www.realpython.com/python-pep8/
+A Pythonista's Holiday Wish List,,http://www.realpython.com/python-holiday-wish-list/
+Thonny: The Beginner-Friendly Python Editor,,http://www.realpython.com/python-thonny/
+Python Community Interview,,http://www.realpython.com/interview-brian-peterson/
+Sending Emails With Python,,http://www.realpython.com/python-send-email/
+Building Serverless Apps Using AWS Chalice,,http://www.realpython.com/aws-chalice-serverless-python/
+Python Community Interview,,http://www.realpython.com/interview-emily-morehouse/
+Continuous Integration with Python: An Introduction,,http://www.realpython.com/python-continuous-integration/
+Memory Management in Python,,http://www.realpython.com/python-memory-management/
+Interactive Data Visualization in Python With Bokeh,,http://www.realpython.com/python-data-visualization-bokeh/
+Python Community Interview,,http://www.realpython.com/interview-kenneth-reitz/
+How to Publish an Open-Source Python Package to PyPI,,http://www.realpython.com/pypi-publish-python-package/
+Introduction to Python 3,,http://www.realpython.com/python-while-loop/
+Writing Comments in Python (Guide),,http://www.realpython.com/python-comments-guide/
+A Basic Python Setup for Machine Learning on Windows,,http://www.realpython.com/python-windows-machine-learning-setup/
+Python Community Interview,,http://www.realpython.com/interview-michael-kennedy/
+Practical Text Classification With Python and Keras,,http://www.realpython.com/python-keras-text-classification/
+Getting Started With Testing in Python,,http://www.realpython.com/python-testing/
+"Python, Boto3, and AWS S3: Demystified",,http://www.realpython.com/python-boto3-aws-s3/
+Python's range() Function,,http://www.realpython.com/python-range/
+Python Community Interview,,http://www.realpython.com/interview-mike-grouchy/
+How to Round Numbers in Python,,http://www.realpython.com/python-rounding/
+Building Flask REST APIs,,http://www.realpython.com/flask-connexion-rest-api-part-2/
+"Splitting, Concatenating, and Joining Strings in Python",,http://www.realpython.com/python-string-split-concatenate-join/
+Color Spaces and How to Use Them With OpenCV and Python,,http://www.realpython.com/python-opencv-color-spaces/
+Python Community Interview With Mahdi Yusuf,,http://www.realpython.com/interview-mahdi-yusuf/
+Absolute vs Relative Imports in Python,,http://www.realpython.com/absolute-vs-relative-python-imports/
+Top 10 Must-Watch PyCon Talks,,http://www.realpython.com/must-watch-pycon-talks/
+Logging in Python,,http://www.realpython.com/python-logging/
+The Best Python Books,,http://www.realpython.com/best-python-books/
+Introduction to Python 3,,http://www.realpython.com/python-conditional-statements/
+Introduction to Python 3,,http://www.realpython.com/python-program-structure/
+1M Monthly Views on Real Python,,http://www.realpython.com/one-million-pageviews-celebration/
+Pandas Tricks,,http://www.realpython.com/python-pandas-tricks/
+Python Community Interview,,http://www.realpython.com/interview-mariatta-wijaya/
+Python Decorators,,http://www.realpython.com/primer-on-python-decorators/
+Introduction to Python 3,,http://www.realpython.com/python-sets/
+Django Redirects Tutorial,,http://www.realpython.com/django-redirects/
+Git Tips for Python Developers,,http://www.realpython.com/advanced-git-for-pythonistas/
+Python Community Interview,,http://www.realpython.com/interview-mike-driscoll/
+Introduction to Python 3,,http://www.realpython.com/python-dicts/
+Python Socket Programming,,http://www.realpython.com/python-sockets/
+Python Code Quality Illustration,,http://www.realpython.com/python-code-quality/
+Documenting Python Code Guide,,http://www.realpython.com/documenting-python-code/
+Python & Pandas,,http://www.realpython.com/fast-flexible-pandas/
+Introduction to Python 3,,http://www.realpython.com/python-lists-tuples/
+Python CSV Parsing,,http://www.realpython.com/python-csv/
+Generating Random Data With Python,,http://www.realpython.com/python-random/
+Introduction to Python 3,,http://www.realpython.com/python-strings/
+Python String Formatting,,http://www.realpython.com/python-string-formatting/
+Python Histogram Plots,,http://www.realpython.com/python-histograms/
+Cool New Features in Python 3.7,,http://www.realpython.com/python37-new-features/
+What Can I Build With Python?,,http://www.realpython.com/what-can-i-do-with-python/
+Introduction to Python 3,,http://www.realpython.com/python-operators-expressions/
+Python YouTube Channels,,http://www.realpython.com/python-youtube-channels/
+Introduction to Python 3,,http://www.realpython.com/python-variables/
+Building Flask REST APIs,,http://www.realpython.com/flask-connexion-rest-api/
+Introduction to Python 3,,http://www.realpython.com/python-data-types/
+Python Application Layouts and Project Structures,,http://www.realpython.com/python-application-layouts/
+Python Itertools,,http://www.realpython.com/python-itertools/
+Introduction to Python 3,,http://www.realpython.com/interacting-with-python/
+Introduction to Python 3,,http://www.realpython.com/installing-python/
+Introduction to Python 3,,http://www.realpython.com/python-introduction/
+Data Classes in Python 3.7 (And Above),,http://www.realpython.com/python-data-classes/
+F-Strings in Python 3.6,,http://www.realpython.com/python-f-strings/
+Operator and Function Overloading in Python,,http://www.realpython.com/operator-function-overloading/
+Pure Python vs NumPy vs TensorFlow performance comparison,,http://www.realpython.com/numpy-tensorflow-performance/
+Python Metaclasses and Metaprogramming,,http://www.realpython.com/python-metaclasses/
+An Introduction to Python Exceptions,,http://www.realpython.com/python-exceptions/
+"A Guide to Pipenv, the new Python Packaging Tool",,http://www.realpython.com/pipenv-guide/
+"Python 3 ""pathlib"" Module: Taming The Filesystem",,http://www.realpython.com/python-pathlib/
+Python Modules & Packages,,http://www.realpython.com/python-modules-packages/
+Working With JSON Data in Python,,http://www.realpython.com/python-json/
+Array Programming with NumPy,,http://www.realpython.com/numpy-array-programming/
+Python Debugging With Pdb (Guide),,http://www.realpython.com/python-debugging-pdb/
+Introduction to Git and GitHub for Python Developers,,http://www.realpython.com/python-git-github-intro/
+Beginner Tips for Learning Python,,http://www.realpython.com/python-beginner-tips/
+Recursion in Python,,http://www.realpython.com/python-thinking-recursively/
+Python Data Cleaning With NumPy and Pandas,,http://www.realpython.com/python-data-cleaning-numpy-pandas/
+Python Speech Recognition,,http://www.realpython.com/python-speech-recognition/
+Testing Python Command-Line Apps,,http://www.realpython.com/python-cli-testing/
+Python IDEs and Code Editors: The Complete Guide,,http://www.realpython.com/python-ides-code-editors-guide/
+Python Project for Beginners: Bitcoin Price Notification Service,,http://www.realpython.com/python-bitcoin-ifttt/
+What is the Python Global Interpreter Lock (GIL)?,,http://www.realpython.com/python-gil/
+Python Matplotlib,,http://www.realpython.com/python-matplotlib-guide/
+OOP in Python 3,,http://www.realpython.com/python3-object-oriented-programming/
+World-Class Software Companies Using Python,,http://www.realpython.com/world-class-companies-using-python/
+Modern Web Automation with Python and Selenium,,http://www.realpython.com/modern-web-automation-with-python-and-selenium/
+Shallow vs Deep Copies in Python,,http://www.realpython.com/copying-python-objects/
+Python + Memcached for Efficient Caching,,http://www.realpython.com/python-memcache-efficient-caching/
+Using Docker for Offline Python Deployments,,http://www.realpython.com/offline-python-deployments-with-docker/
+Python Web Scraping,,http://www.realpython.com/python-web-scraping-practical-introduction/
+PyBites: Daily Python tips,,http://www.realpython.com/building-a-simple-web-app-with-bottle-sqlalchemy-twitter-api/
+"AWS Lambda,  API gateway and Python logos",,http://www.realpython.com/code-evaluation-with-aws-lambda-and-api-gateway/
+"Angular, Flask logos",,http://www.realpython.com/user-authentication-with-angular-4-and-flask/
+Django REST Framework logo,,http://www.realpython.com/test-driven-development-of-a-django-restful-api/
+"Python classmethods, staticmethods, and instance methods",,http://www.realpython.com/instance-class-and-static-methods-demystified/
+Django channels logo,,http://www.realpython.com/getting-started-with-django-channels/
+Flask: token based authentication,,http://www.realpython.com/token-based-authentication-with-flask/
+"Django, Ansible logos",,http://www.realpython.com/automating-django-deployments-with-fabric-and-ansible/
+Python and Mongo logos,,http://www.realpython.com/introduction-to-mongodb-and-python/
+"Django, Redis logos",,http://www.realpython.com/caching-in-django-with-redis/
+Flask by example part 8,,http://www.realpython.com/flask-by-example-custom-angular-directive-with-d3/
+Mocking in Python part two,,http://www.realpython.com/testing-third-party-apis-with-mock-servers/
+Mocking in Python part one,,http://www.realpython.com/testing-third-party-apis-with-mocks/
+Slack and Python logos,,http://www.realpython.com/getting-started-with-the-slack-api-using-python-and-flask/
+Django and AWS Elastic Beanstock logos,,http://www.realpython.com/deploying-a-django-app-and-postgresql-to-aws-elastic-beanstalk/
+Python Virtual Environments (venv),,http://www.realpython.com/python-virtual-environments-a-primer/
+Python for social scientists,,http://www.realpython.com/python-for-social-scientists/
+Python web apps,,http://www.realpython.com/python-web-applications/
+"Cookiecutter, Django and Fedora logos",,http://www.realpython.com/development-and-deployment-of-cookiecutter-django-on-fedora/
+Cookiecutter and Django logos,,http://www.realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/
+Introduction to Python 3,,http://www.realpython.com/python-first-steps/
+Python and VIM,,http://www.realpython.com/vim-and-python-a-match-made-in-heaven/
+"Django, Linkedin logos",,http://www.realpython.com/linkedin-social-authentication-in-django/
+Django Setup Guide,,http://www.realpython.com/django-setup/
+Python Programming Challenge – First to Five,,http://www.realpython.com/python-programming-contest-first-to-five/
+Python command line libraries,,http://www.realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/
+Image of Flask and Martini logos and Sinatra hat,,http://www.realpython.com/python-ruby-and-golang-a-web-service-application-comparison/
+"Django, Celery logos",,http://www.realpython.com/asynchronous-tasks-with-django-and-celery/
+Using Pandas to read Excel files,,http://www.realpython.com/working-with-large-excel-files-in-pandas/
+Create a REST API in Minutes With Pyramid and Ramses,,http://www.realpython.com/create-a-rest-api-in-minutes-with-pyramid-and-ramses/
+"Python, Ruby and Golang logos",,http://www.realpython.com/python-ruby-and-golang-a-command-line-application-comparison/
+Flask angular auth,,http://www.realpython.com/handling-user-authentication-with-angular-and-flask/
+'Minimum viable test',,http://www.realpython.com/the-minimum-viable-test-suite/
+Django and docker logos,,http://www.realpython.com/django-development-with-docker-compose-and-machine/
+Django and postgres logos,,http://www.realpython.com/fun-with-djangos-new-postgres-features/
+Flask scaffold,,http://www.realpython.com/scaffold-a-flask-project/
+Flask and Docker images,,http://www.realpython.com/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/
+Python logo,,http://www.realpython.com/learn-python-the-methodical-way/
+Main logo,,http://www.realpython.com/the-ultimate-flask-front-end-part-2/
+Analyzing Obesity in England With Python,,http://www.realpython.com/analyzing-obesity-in-england-with-python/
+Main logo,,http://www.realpython.com/the-ultimate-flask-front-end/
+Python API Integration,,http://www.realpython.com/api-integration-in-python/
+Flask by example part 7,,http://www.realpython.com/flask-by-example-updating-the-ui/
+Scrapy part 2,,http://www.realpython.com/web-scraping-and-crawling-with-scrapy-and-mongodb/
+Docker,,http://www.realpython.com/docker-in-action-fitter-happier-more-productive/
+The Most Diabolical Python Antipattern,,http://www.realpython.com/the-most-diabolical-python-antipattern/
+Deploying a Django app to AWS Elastic Beanstalk,,http://www.realpython.com/deploying-a-django-app-to-aws-elastic-beanstalk/
+Optical character recognition demo results,,http://www.realpython.com/setting-up-a-simple-ocr-server/
+Scrapy,,http://www.realpython.com/web-scraping-with-scrapy-and-mongodb/
+Flask email confirmation,,http://www.realpython.com/handling-email-confirmation-in-flask/
+Legos,,http://www.realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/
+Image fingerprint flow,,http://www.realpython.com/fingerprinting-images-for-near-duplicate-detection/
+Requests cache,,http://www.realpython.com/caching-external-api-requests/
+Deploying Django on Dokku,,http://www.realpython.com/deploying-a-django-app-on-dokku/
+Automatically Scale Heroku Dynos,,http://www.realpython.com/automatically-scale-heroku-dynos/
+Flask by example part 6,,http://www.realpython.com/updating-the-staging-environment/
+Twitter Sentiment Analysis – Overall bar chart,,http://www.realpython.com/twitter-sentiment-python-docker-elasticsearch-kibana/
+Adding Social Authentication to Django,,http://www.realpython.com/adding-social-authentication-to-django/
+Kickstarting Flask on Ubuntu – Setup and Deployment,,http://www.realpython.com/kickstarting-flask-on-ubuntu-setup-and-deployment/
+Django Rest Framework CBVs,,http://www.realpython.com/django-rest-framework-class-based-views/
+Flask by example part 5,,http://www.realpython.com/flask-by-example-integrating-flask-and-angularjs/
+Flask stock visualizer app screenshot,,http://www.realpython.com/web-development-with-flask-fetching-data-with-requests/
+The Django Rest Framework (DRF) Logo,,http://www.realpython.com/django-rest-framework-quick-start/
+Flask by example part 4,,http://www.realpython.com/flask-by-example-implementing-a-redis-task-queue/
+Django and AJAX Form Submissions – More Practice,,http://www.realpython.com/django-and-ajax-form-submissions-more-practice/
+Django and AJAX Form Submissions – Say 'Goodbye' to the Page Refresh,,http://www.realpython.com/django-and-ajax-form-submissions/
+Flask by example part 3,,http://www.realpython.com/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/
+Setting Up Sublime Text 3 for Python Developers,,http://www.realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/
+Python Inner Functions,,http://www.realpython.com/inner-functions-what-are-they-good-for/
+Django migrations,,http://www.realpython.com/data-migrations/
+Python Face Recognition and Face Detection,,http://www.realpython.com/face-detection-in-python-using-a-webcam/
+Python Face Recognition and Face Detection,,http://www.realpython.com/face-recognition-with-python/
+"Discover Flask, Part 2 – Creating a Login Page",,http://www.realpython.com/introduction-to-flask-part-2-creating-a-login-page/
+"Discover Flask, Part 1 – Setting Up a Static Site",,http://www.realpython.com/introduction-to-flask-part-1-setting-up-a-static-site/
+Python Interview Problem – Parsing CSV Files,,http://www.realpython.com/python-interview-problem-parsing-csv-files/
+Flask by example part 2,,http://www.realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/
+Flask by example part 1,,http://www.realpython.com/flask-by-example-part-1-project-setup/
+Using Flask-Login for User Management with Flask,,http://www.realpython.com/using-flask-login-for-user-management-with-flask/
+Jinja Templating Engine,,http://www.realpython.com/primer-on-jinja-templating/
+Python Web Applications With Flask – Part III,,http://www.realpython.com/python-web-applications-with-flask-part-iii/
+Working with Django and Flask on Nitrous.IO,,http://www.realpython.com/working-with-django-and-flask-on-nitrous-io/
+Kickstarting a Django Open Source Project,,http://www.realpython.com/kickstarting-a-django-open-source-project/
+Lyricize: A Flask app to create lyrics using Markov chains,,http://www.realpython.com/lyricize-a-flask-app-to-create-lyrics-using-markov-chains/
+Transaction Management with Django 1.6,,http://www.realpython.com/transaction-management-with-django-1-6/
+Test driven development process,,http://www.realpython.com/django-1-6-test-driven-development/
+Rethink Flask – A Simple Todo List Powered by Flask and RethinkDB,,http://www.realpython.com/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/
+Python Web Applications With Flask – Part II,,http://www.realpython.com/python-web-applications-with-flask-part-ii/
+Migrating your Django Project to Heroku,,http://www.realpython.com/migrating-your-django-project-to-heroku/
+Generating Code Documentation with Pycco,,http://www.realpython.com/generating-code-documentation-with-pycco/
+An Effective Sales Page with Bootstrap 3,,http://www.realpython.com/an-effective-sales-page-with-bootstrap-3/
+Integration Testing with pyVows and Django,,http://www.realpython.com/integration-testing-with-pyvows-and-django/
+Getting Started with Bootstrap 3,,http://www.realpython.com/getting-started-with-bootstrap-3/
+Unit Testing with pyVows and Django,,http://www.realpython.com/unit-testing-with-pyvows-and-django/
+Asynchronous Testing with Django and pyVows,,http://www.realpython.com/asynchronous-testing-with-django-and-pyvows/
+Testing in Django (Part 2) – Model Mommy vs Django Testing Fixtures,,http://www.realpython.com/testing-in-django-part-2-model-mommy-vs-django-testing-fixtures/
+Flask Logo,,http://www.realpython.com/python-web-applications-with-flask-part-i/
+Django Pony,,http://www.realpython.com/testing-in-django-part-1-best-practices-and-examples/
+Django tasty pie logo,,http://www.realpython.com/create-a-super-basic-rest-api-with-django-tastypie/
+Bottle logo,,http://www.realpython.com/developing-with-bottle-part-2-plot-ly-api/
+Modern Web Automation with Python and Selenium,,http://www.realpython.com/headless-selenium-testing-with-python-and-phantomjs/
+The web2py logo,,http://www.realpython.com/web2py-migrating-from-sqlite-to-mysql/
+Bottle logo,,http://www.realpython.com/developing-with-bottle-part-1/
