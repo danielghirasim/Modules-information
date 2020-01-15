@@ -43,20 +43,20 @@
 # # # Example of **kwarg - keyword argument
 # # hello_world(msg='This is a keyword argument.')
 #
-# def my_timer(orig_func):
-#     import time  # Import time module
-#     from time import sleep
-#
-#     @wraps(orig_func)
-#     def wrapper(*args, **kwargs):
-#         """We make a variable called to_be_timed otherwise we have to run the function
-#            and that would print hello + {msg} again."""
-#         t1 = time.time()  # Get's T1
-#         sleep(0.2)
-#         to_be_timed = orig_func(*args, **kwargs)
-#         t2 = time.time() - t1  # t2 - t1 gives us the actual runtime of our function
-#         print(f'{orig_func.__name__} ran in : {t2} sec')
-#         return to_be_timed  # We return our newly made variable
+def my_timer(orig_func):
+    import time  # Import time module
+    from time import sleep
+
+    @wraps(orig_func)
+    def wrapper(*args, **kwargs):
+        """We make a variable called to_be_timed otherwise we have to run the function
+           and that would print hello + {msg} again."""
+        t1 = time.time()  # Get's T1
+        sleep(0.2)
+        to_be_timed = orig_func(*args, **kwargs)
+        t2 = time.time() - t1  # t2 - t1 gives us the actual runtime of our function
+        print(f'{orig_func.__name__} ran in : {t2} sec')
+        return to_be_timed  # We return our newly made variable
 #
 #     return wrapper
 #
