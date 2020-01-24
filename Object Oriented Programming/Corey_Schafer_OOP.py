@@ -23,6 +23,9 @@ class Employee():
     def __add__(self, other): # Other stands for the second instance
         return self.pay + other.pay
 
+    def __len__(self):
+        return len(self.fullname())
+
     def fullname(self):
         return self.first.title() + ' ' + self.last.title()
 
@@ -88,4 +91,5 @@ emp_1 = Employee('Daniel','Ghirasim', 50000)
 
 # print(1+2)
 # print("a"+"b")
-print(emp_1 + dev_2)
+# print(emp_1 + dev_2)
+print(len(emp_1))
