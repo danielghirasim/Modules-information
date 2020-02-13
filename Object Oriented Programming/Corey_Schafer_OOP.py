@@ -122,12 +122,9 @@ class Employee:
         self.last = None
 
 
+
 emp_1 = Employee('John', 'Smith', 60000)
 emp_1.first = 'Jim'
 
 emp_1.full_name = 'Daniel Ghirasim'
-del(emp_1.full_name)
-print(emp_1.first)
-print(emp_1.last)
-print(emp_1.email)
-
+print(emp_1.full_name)
